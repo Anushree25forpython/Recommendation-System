@@ -20,9 +20,9 @@ This study looks at how men and women consume music differently and how this can
     - Artist and track metadata
     - User-artist listening counts
     - Time (when the music was played)
-   - User profiles (gender, age, etc.)
+    - User profiles (gender, age, etc.)
 
-⚙️ Methodology for analysis
+## ⚙️ Methodology for analysis
  ## 1. Feature Analysis: 
     Used machine learning models (like Random Forest, Logistic Regression) to predict gender based on listening habits.
       • Found that men tend to:
