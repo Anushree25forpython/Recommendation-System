@@ -22,7 +22,7 @@ This study looks at how men and women consume music differently and how this can
     - Time (when the music was played)
     - User profiles (gender, age, etc.)
 
-## ⚙️ Methodology for analysis
+## ⚙️ Methodology & Analysis
  ## 1. Feature Analysis: 
     Used machine learning models (like Random Forest, Logistic Regression) to predict gender based on listening habits.
       • Found that men tend to:
@@ -46,8 +46,7 @@ This study looks at how men and women consume music differently and how this can
     - Female users
     - Male users
     - All users
-
-## Findings:
+    Findings:
     - Males and females had very different top 10 recommended artists.
     - The overall system favored male users’ preferences because there was more data about them.
     - This showed a clear bias: systems trained on male-heavy data tend to ignore female preferences.
